@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"flutter_bootstrap.js": "e177393aa769129bca520f2ee52efc1f",
+const RESOURCES = {"flutter_bootstrap.js": "7fd96d4fec763ab63b67900061af3077",
 "version.json": "09d84bfae28d06389358c3e1063cb4d6",
 "index.html": "d324d83245700caef446e6bca66ebf85",
 "/": "d324d83245700caef446e6bca66ebf85",
